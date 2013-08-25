@@ -16,11 +16,11 @@ any object passing through the portal is subjected to. It can be any
 kind of a matrix: even a non-uniform scale!
 
 These portals are similar to Unreal Engine's WarpZones, or
-Source's Areaportals but are much more capable then those, as they
+Source's Areaportals but are much more capable than those, as they
 allow any arbitrary affine transform.
 
 They are stationary and transition through them will be seamless,
-allowing fo various forms of impossible spaces.
+allowing for various forms of impossible spaces.
 
 ## Insipration
 
