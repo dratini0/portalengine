@@ -16,11 +16,12 @@ Source's Areaportals but are much more capable then those, as they
 allow any arbitrary affine transform.
 
 They are stationary and transition through them will be seamless,
-allowing fo various forms of impossable spaces.
+allowing fo various forms of impossible spaces.
 
 == Insipration
 
-This thing was mainly inspired by a [video on YouTube by user tonymyre311](https://www.youtube.com/watch?v=_xFbRecjKQA).
+This thing was mainly inspired by a [video on YouTube by user
+tonymyre311](https://www.youtube.com/watch?v=_xFbRecjKQA).
 
 == Running things locally
 

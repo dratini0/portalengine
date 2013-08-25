@@ -1,3 +1,9 @@
+/*
+portalengine.js - main script file
+Copyright (C) 2013 Bálint Kovács
+See COPYRIGHT for details
+*/
+
 var scene, mainContainer, camera, controls, renderer, gl;
 var portals = [], parts = [];
 var requestID;
