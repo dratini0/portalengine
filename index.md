@@ -32,7 +32,7 @@ tonymyre311](https://www.youtube.com/watch?v=_xFbRecjKQA).
 If you want to run this program locally you will have to use some
 tricks. See [this article for details](https://github.com/mrdoob/three.js/wiki/How-to-run-things-locally).
 
-## Acknowlegements
+## Acknowledgements
 
 This program includes code from three.js. For copyright infomration,
 see the file three.js/LICENSE.
